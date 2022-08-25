@@ -17,7 +17,7 @@ public class Primeira {
              if (x == 0) {
                   System.out.println("Soma: " + sum);
                   break;
-            } else if (x != 0) {
+            } else {
                 sum = sum + x;
              }
         }
